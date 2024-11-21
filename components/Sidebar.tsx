@@ -32,7 +32,7 @@ export default function Sidebar() {
             className={`relative flex items-center p-3 pr-[18px] mr-[18px] rounded-r-full text-sm font-medium transition-all ${
               pathname === link.href
                 ? "bg-gradient-to-r from-[#C6A7FE] to-[#9155FD]  text-white border-tl-0 border-bl-0 border-tr-[100px] border-br-[100px]"
-                : "text-gray-700 hover:bg-[rgba(58,53,65,0.04)] hover:text-gray-900 border-tl-0 border-bl-0 border-tr-[100px] border-br-[100px]"
+                : "text-gray-700 hover:bg-[rgba(58,53,65,0.09)] hover:text-gray-900 border-tl-0 border-bl-0 border-tr-[100px] border-br-[100px]"
             }`}
           >
             <link.icon
