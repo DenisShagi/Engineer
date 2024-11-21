@@ -50,3 +50,6 @@ export default function Sidebar() {
     </div>
   );
 }
+
+
+// Есть интрересный макет https://themeselection.com/item/materio-mui-nextjs-admin-template/
